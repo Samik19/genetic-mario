@@ -1,4 +1,4 @@
-import os
+import os 
 import neat
 import gym, ppaquette_gym_super_mario
 import pickle

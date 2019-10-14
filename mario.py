@@ -4,7 +4,7 @@ import gym, ppaquette_gym_super_mario
 import pickle
 import multiprocessing as mp
 import warnings
-import time
+import 
 
 warnings.filterwarnings("ignore")
 

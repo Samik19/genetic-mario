@@ -24,6 +24,7 @@ bias_mutate_power       = 2.093
 bias_mutate_rate        = 0.0509
 bias_replace_rate       = 0.1
 
+
 # genome compatibility options
 compatibility_disjoint_coefficient = 2.0
 compatibility_weight_coefficient   = 0.5
